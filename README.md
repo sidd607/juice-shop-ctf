@@ -168,3 +168,18 @@ Extension and any contributions are Copyright © by Bjoern Kimminich &
 the OWASP Juice Shop contributors 2016-2021.
 
 ![Juice Shop CTF Logo](https://raw.githubusercontent.com/juice-shop/juice-shop-ctf/develop/images/JuiceShopCTF_Logo_400px.png)
+
+
+### Deploy on Heroku (free ($0/month) dyno)
+
+1. [Sign up to Heroku](https://signup.heroku.com/) and
+   [log in to your account](https://id.heroku.com/login)
+2. Click the button below and follow the instructions
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+> This is the quickest way to get a running instance of Juice Shop! If
+> you have forked this repository, the deploy button will automatically
+> pick up your fork for deployment! As long as you do not perform any
+> DDoS attacks you are free to use any tools or scripts to hack your
+> Juice Shop instance on Heroku!
